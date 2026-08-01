@@ -1,0 +1,27 @@
+# Python virtual environments & bytecode
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary audio files
+*.wav
+*.mp3
+*.ogg
+*.m4a
+*.flac
+*.tmp
+
+# Large Model Checkpoints (>100MB limit on standard GitHub)
+# (Host these on Hugging Face / Google Drive / GitHub Releases instead)
+*.pt
+*.pth
+*.pkl
