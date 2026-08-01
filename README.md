@@ -162,7 +162,6 @@ QuranReciterClassification/
 ├── api.py                             # FastAPI REST API Service
 ├── model.py                           # PyTorch CNN Architecture & Reciter Metadata
 ├── predict.py                         # Preprocessing, Sliding Window & Inference
-├── test_pipeline.py                   # Automated pipeline integration tests
 ├── qurankareemaudioclassification.ipynb # Jupyter Notebook (Kaggle Training Pipeline)
 ├── requirements.txt                   # Python dependencies list
 ├── Dockerfile                         # Production Docker container blueprint
@@ -174,7 +173,7 @@ QuranReciterClassification/
 
 ## 👤 Author Information
 
-**Faizzan Asghar**
+**Muhammad Faizan Asghar**
 - **GitHub**: [@faizzanasghar](https://github.com/faizzanasghar)
 - **Repository**: [QuranReciterClassification](https://github.com/faizzanasghar/QuranReciterClassification)
 - **Domain**: Machine Learning / Deep Learning for Audio Signal Processing
